@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is Naufal Alif Prasetya. Just a 14 year old child who want to be the best developer
+Gatau mau ngisi apaan intinya gw cuma gabut doang makanya gw ngoding, sekian
 
 ## Social Media
-https://discord.c99.nl/widget/theme-2/305731356531490817.png
+!Discord(https://discord.c99.nl/widget/theme-2/305731356531490817.png)
 - [Instagram](https://instagram.com/palaliip)
 - [Twitter](https://twitter.com/palaliip)
 
