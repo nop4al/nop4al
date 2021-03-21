@@ -1,7 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=palalip&color=green)
-
-Just a newbie developer.
+My name is Naufal Alif Prasetya. Just a 14 year old child who want to be the best developer
 
 ## Social Media
 
