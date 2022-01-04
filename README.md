@@ -20,6 +20,7 @@ Indonesia
 - [Trakteer](https://trakteer.id/palaliip)
 - [Saweria](https://saweria.co/PalAlip)
 - [SocialBuzz](https://sociabuzz.com/palalip/tribe)
+
 International
 - [Paypal](https://paypal.me/palalip)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/palalip)
