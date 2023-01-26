@@ -2,5 +2,8 @@
 
 I am really love to code and learning about programming.
 
-<h3 align="left">My Social Media: </h3>
-  <p align="left">
+### :boy: About Me
+#
+
+- 🏫 I'm still in the High School (actually nobody cares about this shit.)
+- 💼 I'm currently working for some Discord Bot using discord.js (DodgyHelper)
