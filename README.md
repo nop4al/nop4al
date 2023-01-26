@@ -5,5 +5,5 @@ I am really love to code and learning about programming.
 ### :boy: About Me
 #
 
-- 🏫 I'm still in the High School (actually nobody cares about this shit.)
+- 🏫 I'm still new to the community (So, please. Don't judge me even if im stupid to this)
 - 💼 I'm currently working for some Discord Bot using discord.js (DodgyHelper)
