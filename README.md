@@ -2,8 +2,8 @@
 
 **I am really love to code and learning about programming.**
 
-- 🎓Still learning in High Schhol
-- :test_tube: Still new to the community (So, sorry if my code its even that bad)
+- 🎓I'm Still learning in High School (In Sidoarjo, Indonesia)
+- :test_tube: I'm still new to the community (So, sorry if my code its even that bad)
 - 🪐 Looking to improve my skill at everything
 
 ##### Languages I use
