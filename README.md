@@ -12,6 +12,7 @@
 
 **I am really love to code and learning about programming.**
 
+#####About Me
 - 🎓I'm Still learning in High School (In Sidoarjo, Indonesia)
 - :test_tube: I'm still new to the community (So, sorry if my code its even that bad)
 - 🪐 Looking to improve my skill at everything
