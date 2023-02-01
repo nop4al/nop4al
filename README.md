@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://instagram.com/palaliip">Instagram</a> &#xa0; | &#xa0;
-    <a href="https://facebook.com/PalAlip">Facebook</a> &#xa0; | &#xa0;
+  <a href="https://facebook.com/palaliip">Facebook</a> &#xa0; | &#xa0;
   <a href="https://twitter.com/palaliip">Twitter</a> &#xa0; | &#xa0; 
   <a href="https://tiktok.com/@itsRevinee">TikTok</a> &#xa0; | &#xa0;
   <a href="https://www.youtube.com/@ItsRevinee/">YouTube</a> &#xa0; | &#xa0;
