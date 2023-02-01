@@ -16,7 +16,7 @@
 - :test_tube: I'm still new to the community (So, sorry if my code its even that bad)
 - 🪐 Looking to improve my skill at everything
 
-##### Languages I use
+<h1 align="center">Languages that I use</h1>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
