@@ -2,8 +2,13 @@
 
 I am really love to code and learning about programming.
 
-### :boy: About Me
-#
+- 🎓Still learning in High Schhol
+- :test_tube: Still new to the community (So, sorry if my code its even that bad)
+- 🪐 Looking to improve my skill at everything
 
-- 🏫 I'm still new to the community (So, please. Don't judge me even if im stupid to this)
-- 💼 I'm currently working for some Discord Bot using discord.js (DodgyHelper)
+##### Languages I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
