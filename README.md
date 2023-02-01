@@ -7,7 +7,7 @@
   <a href="https://tiktok.com/@itsRevinee">TikTok</a> &#xa0; | &#xa0;
   <a href="https://www.youtube.com/@ItsRevinee/">YouTube</a> &#xa0; | &#xa0;
   <a href="https://saweria.co/Revinee">Saweria.co</a> &#xa0; | &#xa0;
-  <a href="https://sociabuzz.com/Revinee/tribe">Sociabuzz</a> &#xa0; | &#xa0;
+  <a href="https://sociabuzz.com/Revinee/tribe">Sociabuzz</a> &#xa0;
 </p>
 
 **I am really love to code and learning about programming.**
