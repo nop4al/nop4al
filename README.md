@@ -26,4 +26,15 @@ About me:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h1 align="center">My GitHub Stats</h1>
-[PalAlip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalAlip)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=PalAlip&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=PalAlip&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=PalAlip&show_icons=true" />
+</picture>
