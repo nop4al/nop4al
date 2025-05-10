@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, its me Revinee! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, its me PalAlip! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 
 **I am really love to code and learning about programming.**
