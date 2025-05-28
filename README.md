@@ -50,7 +50,7 @@ me = SoftwareEngineer()
 </div>
 
 ## 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palaliip&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nop4al&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🤝 Connect with Me
