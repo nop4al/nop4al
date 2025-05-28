@@ -44,9 +44,9 @@ me = SoftwareEngineer()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palaliip&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palaliip&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaliip&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nop4al&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nop4al&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nop4al&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
@@ -82,7 +82,7 @@ me = SoftwareEngineer()
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naufalalief&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nop4al&style=flat-square&color=blue" alt="Profile Views"/>
   
   ⭐️ From [nop4al](https://github.com/nop4al) with ❤️
   
