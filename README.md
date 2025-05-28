@@ -77,9 +77,6 @@ me = SoftwareEngineer()
 - 📚 Share Knowledge through Tech Blog
 - 🌱 Learn Blockchain Development
 
-## 🎵 Currently Vibing To
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/cnizwz5zvxs0lsgn6vqr9xj10)
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nop4al&style=flat-square&color=blue" alt="Profile Views"/>
