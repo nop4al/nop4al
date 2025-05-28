@@ -5,7 +5,7 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Naufal Alif"
+        self.name = ["Naufal Alif", "xxrevv_"]
         self.role = "Software Developer"
         self.language_spoken = ["id_ID", "en_US"]
         self.interests = ["Web Development", "Mobile Apps", "UI/UX",]
