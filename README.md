@@ -82,6 +82,4 @@ me = SoftwareEngineer()
   <img src="https://komarev.com/ghpvc/?username=nop4al&style=flat-square&color=blue" alt="Profile Views"/>
   
   ⭐️ From [nop4al](https://github.com/nop4al) with ❤️
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </div>
